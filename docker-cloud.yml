@@ -1,4 +1,4 @@
-helloworld:
+busybox:
   image: dockercloud/busybox
   ports:
     - "80:80"
